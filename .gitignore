@@ -8,6 +8,7 @@ dist/
 *.egg-info/ 
 .env/ 
 venv/ 
+data
 .vscode/ 
 .idea/ 
 data/raw/ 
